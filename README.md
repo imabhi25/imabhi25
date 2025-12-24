@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Abhay Partap Singh! 👋
 
-<!--
-**imabhi25/imabhi25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 2nd Year Computer Science Student
+I am currently focusing on backend development and database management. I balance my full-time studies with part-time work, which has sharpened my time management and professional communication skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Featured Project
+**[Database Management System (Summer 2024)]**
+* Developed a student record-keeping application using **Python** and **MySQL**.
+* Optimized data retrieval by implementing relational schemas and complex SQL queries.
+* Focused on data integrity using primary/foreign key constraints.
+
+---
+
+### 💻 Technical Toolbox
+* **Languages:** Python, SQL(MySQL), Java
+* **Tools:** PyCharm, Git, MySQL Workbench, VS Code (VS Studio), Eclipse, Xcode, GitHub
+* **Soft Skills:** Time Management, Team Collaboration, Problem Solving (developed through part-time work)
+
+---
+
+### 📫 How to reach me
+* **LinkedIn:** www.linkedin.com/in/singhabhay18
+* **Email:** asingh25@my.yorku.ca
+* **Location:** Toronto, ON
