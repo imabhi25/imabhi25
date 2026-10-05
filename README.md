@@ -1,28 +1,23 @@
-# Hi, I'm Abhay Partap Singh! 👋
+# Hi, I'm Abhay Partap Singh 👋
+3rd-year Computer Science @ York University (Lassonde) · Toronto, ON
+I build data-heavy web apps. Currently hunting for a **co-op / internship starting 2027**.
+## 🚀 Featured Project: Jobber
+**Career-intelligence platform** — live at [jobber-mauve.vercel.app](https://jobber-mauve.vercel.app)
+- Aggregates **1,100+ real software job postings** from Greenhouse, Lever, Ashby, Workday & more
+- Company profiles, salary data, skill trends, location analytics
+- **Stack:** React · TypeScript · FastAPI · PostgreSQL · Vercel · Render
+## 🛠️ Toolbox
+**Languages:** Python · TypeScript · JavaScript · Java · C · SQL
+**Backend:** FastAPI · Node.js
+**Frontend:** React
+**Data:** PostgreSQL · Pandas
+**Tools:** Git · Docker · Vercel · Render
+## 💼 Experience
+- **Records & Data Entry Assistant** — York University, Office of Advancement (2025–Present)
+  Blackbaud CRM · constituent research · contact tracing · data integrity
+- **Delivery Driver (Uber Eats)** — self-managed gig work alongside full-time studies
+## 📫 Connect
+- [LinkedIn](https://www.linkedin.com/in/singhabhay18)
+- asingh25@my.yorku.ca
 
-### 🎓 2nd Year Computer Science Student @ York University
-I am a software engineering student specializing in backend logic and database integrity. I balance a full-time academic load with part-time employment, demonstrating high-level time management and a strong professional work ethic.
-
----
-
-### 🛠️ Featured Project
-**[Database Management System (Summer 2024)]**
-* Developed a student record-keeping application using **Python** and **MySQL** to automate administrative workflows.
-* **Architecture:** Utilized relational schemas and primary/foreign key constraints to ensure 100% data consistency.
-* **Backend:** Programmed scripts to execute complex SQL queries and data migrations, focusing on query optimization.
-
----
-
-### 💻 Technical Toolbox
-* **Languages:** Python, SQL (MySQL), Java
-* **Testing:** JUnit, Unit Testing
-* **Tools:** Git, GitHub, PyCharm, VS Code, Eclipse, Xcode, MySQL Workbench
-* **Environments:** MacOS, Windows, Linux (Platform Agnostic)
-* **Soft Skills:** Professional Communication, Time Management, Team Collaboration
-
----
-
-### 📫 Connect with me
-* **LinkedIn:** www.linkedin.com/in/singhabhay18
-* **Email:** asingh25@my.yorku.ca
-* **Location:** Toronto, ON
+![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=imabhi25&show_icons=true)
